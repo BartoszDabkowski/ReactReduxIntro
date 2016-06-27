@@ -1,8 +1,8 @@
 export default function() {
     return [
-        { title: 'JavaScript: The Good Parts' },
-        { title: 'Harry Potter' },
-        { title: 'Finding Nemo' },
-        { title: 'King Kong' },
+        { title: 'JavaScript: The Good Parts', pages: 101 },
+        { title: 'Harry Potter', pages: 34  },
+        { title: 'Finding Nemo', pages: 55  },
+        { title: 'King Kong', pages: 56  },
     ];
 }
